@@ -1,0 +1,10 @@
+Pregunta 5 :
+Escribe un algoritmo de mínimo 6 pasos para explicar
+
+Respuesta :
+1 : Buscar la información,Localizar el contenido en el sitio web original, evitando quedarse solo con capturas de pantalla o mensajes reenviados.
+2 : Revisar la fuente,Evaluar quién publica la información. Buscar secciones "Acerca de nosotros", verificar si es un dominio educativo (.edu), gubernamental (.gob) o un medio de noticias reconocido.
+3 : Confirmar la noticia,Comprobar si otros medios de comunicación fiables o agencias de noticias están cubriendo la misma información
+4 : Analizar la fecha y el autor,Verificar que la información sea actual y no una noticia antigua descontextualizada. Buscar la firma del autor para asegurar que es un experto o periodista reconocido.
+5 : Evaluar la objetividad,Identificar sesgos. Sospechar si el titular es sensacionalista, busca generar miedo/ira, o si el sitio web tiene demasiada publicidad invasiva.
+6 : Verificar imágenes o audios,Utilizar herramientas como la búsqueda inversa de imágenes (Google Lens) para asegurarse de que las fotos no han sido manipuladas o usadas fuera de contexto.
