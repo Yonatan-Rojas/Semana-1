@@ -6,4 +6,4 @@ La relación entre el uso responsable de la información en internet,
  la participación ciudadana y la organización del trabajo técnico
 con herramientas como Git se basa en la gestión ética, transparente y colaborativa
 a de los datos y el conocimiento para lograr objetivos comunes
-ya sean sociales o técnicos.
+ya sean sociales o técnicoss.
